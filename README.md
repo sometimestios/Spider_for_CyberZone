@@ -1,0 +1,2 @@
+# Spider_for_CyberZone
+在网页元素中读取CyberZone工具列表到本地json文件中，解析格式后再用urllib模块批量下载。
