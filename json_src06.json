@@ -1,0 +1,2662 @@
+[
+  {
+    "uuid": "b018b650-9673-11ea-b6ea-0242ac130003",
+    "tool_name": "shellcodeLoader.exe",
+    "classify_": "ee7e01a8-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "---内置大量漏洞EXP/GetShell/0day网马/U盘自动种马/脱库采集工具\n------支持7种Virus-killing管理/后台扫描/2级域名扫描/WordPress用户扫描\n------黑客浏览器/自动检测注入/自动收集信息/Exp调式/可一键生成EXP",
+    "tool_file_size": "219KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Audit-test/windows/shellcodeLoader.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "shellcodeLoader.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ee7e01a8-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "审计测试",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b06f3c33-99a7-11ea-b6ea-0242ac130003",
+    "tool_name": "python-2.7.15-macosx10.6.pkg",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "19MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/python-2.7.15-macosx10.6.pkg",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "python-2.7.15-macosx10.6.pkg",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b0ab4a4d-99a9-11ea-b6ea-0242ac130003",
+    "tool_name": "Ladon5.5.zip",
+    "classify_": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "大型内网渗透扫描神器,支持Cobalt-Strike",
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Vulnerability-collection/windows/Ladon5.5.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Ladon5.5.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b1608984-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "sshtest.py.zip",
+    "classify_": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "SSH密码登陆测试可结合Cscan进行批量破解",
+    "tool_file_size": "3MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Violent-attack/windows/sshtest.py.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "sshtest.py.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "暴力攻击",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b174ab56-965a-11ea-b6ea-0242ac130003",
+    "tool_name": "脚本木马查询器.7z",
+    "classify_": "d4aadd8a-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "常见木马扫描器是一款非常实用的木马查杀软件，软件可以帮你自动查杀电脑木马文件，让你的电脑免受木马侵害。",
+    "tool_file_size": "411KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Virus-killing/windows/脚本木马查询器.7z",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "脚本木马查询器.7z",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "d4aadd8a-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "病毒查杀",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b1be1767-9678-11ea-b6ea-0242ac130003",
+    "tool_name": "Regshot-1.9.0.7z",
+    "classify_": "dedba011-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "实用的注册表比较工具,它通过两次抓取注册表而快速地比较出答案。它在同类软件中可谓是小巧玲珑!",
+    "tool_file_size": "155KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Defense-protection/windows/Regshot-1.9.0.7z",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Regshot-1.9.0.7z",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "dedba011-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "防御保护",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b1d2516c-99ae-11ea-b6ea-0242ac130003",
+    "tool_name": "CVE-2019-0708-msf快速搭建.doc",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "CVE-2019-0708-msf快速搭建说明",
+    "tool_file_size": "4KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/CVE-2019-0708-msf快速搭建.doc",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "CVE-2019-0708-msf快速搭建.doc",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b1f02897-99a2-11ea-b6ea-0242ac130003",
+    "tool_name": "急速字典_v1.0.exe",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "一点生成工具",
+    "tool_file_size": "620KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/急速字典_v1.0.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "急速字典_v1.0.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b24ed4ad-99a4-11ea-b6ea-0242ac130003",
+    "tool_name": "w3af_1.0_stable_setup.exe",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "36MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/w3af_1.0_stable_setup.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "w3af_1.0_stable_setup.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b26c130a-99a8-11ea-b6ea-0242ac130003",
+    "tool_name": "netcat-0.7.1-1.src.rpm",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "324KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/linux/netcat-0.7.1-1.src.rpm",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "netcat-0.7.1-1.src.rpm",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b2e89954-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "x-scan_3.3.zip",
+    "classify_": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "Scan是国内最著名的综合扫描器之一,它完全免费,是不需要安装的绿色软件、界面支持中文和英文两种语言、包括图形界面",
+    "tool_file_size": "12MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Vulnerability-collection/windows/x-scan_3.3.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "x-scan_3.3.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b3580c7d-99a7-11ea-b6ea-0242ac130003",
+    "tool_name": "python-2.7.15.amd64.msi",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "25MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/python-2.7.15.amd64.msi",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "python-2.7.15.amd64.msi",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b3ad3a70-99a9-11ea-b6ea-0242ac130003",
+    "tool_name": "Keygener-Assistant-V1.7_V2.1.0.rar",
+    "classify_": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "#NAME?",
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Violent-attack/windows/Keygener-Assistant-V1.7_V2.1.0.rar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Keygener-Assistant-V1.7_V2.1.0.rar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "暴力攻击",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b488321a-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "sshtest.exe",
+    "classify_": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "SSH密码登陆测试可结合Cscan进行批量破解",
+    "tool_file_size": "20KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Violent-attack/windows/sshtest.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "sshtest.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "暴力攻击",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b4d86c0f-965a-11ea-b6ea-0242ac130003",
+    "tool_name": "加密解密小玩具.exe",
+    "classify_": "dbb0fab6-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "加密解密小玩具(rsa在线加密工具)是一款绿色免费的能够帮助大家进行明文加密的工具。软件功能强大，能够提供RSA、AES、Base64、Base32、SHA、MD5、RC4这7种加密方式，可谓麻雀虽小，五脏俱全，任君选择。",
+    "tool_file_size": "140KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/data-encryption/windows/加密解密小玩具.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "加密解密小玩具.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "dbb0fab6-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "数据加密",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b52d9ef4-99a8-11ea-b6ea-0242ac130003",
+    "tool_name": "netcat-0.7.1-1.i386.rpm",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "124KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/linux/netcat-0.7.1-1.i386.rpm",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "netcat-0.7.1-1.i386.rpm",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b5c1f005-99ae-11ea-b6ea-0242ac130003",
+    "tool_name": "cve-2019-0604-exp.py",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "CVE-2019-0604微软SharePoint远程代码执行漏洞利用工具",
+    "tool_file_size": "28KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/cve-2019-0604-exp.py",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "cve-2019-0604-exp.py",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b608fd63-99a7-11ea-b6ea-0242ac130003",
+    "tool_name": "python-2.7.15.msi",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "20MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/python-2.7.15.msi",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "python-2.7.15.msi",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b6625aa1-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "xrop-Gadget查找工具.zip",
+    "classify_": "9c75738a-934f-11ea-b631-0242ac120003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "xrop是生成ROP小工具的简单工具。它支持PE，ELF，Mach-O以及其他可执行格式。它使用libxdisasm库，目前支持为x86，x86_64，arm，ppc，mips，riscv，sh4和sparc生成ROP小工具。\n\n构建说明\ncd-xrop\ngit-submodule-update---init---recursive\nmake",
+    "tool_file_size": "32KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/comprehensive-utilization/linux/xrop-Gadget查找工具.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "xrop-Gadget查找工具.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "9c75738a-934f-11ea-b631-0242ac120003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "综合利用",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b662fda2-9678-11ea-b6ea-0242ac130003",
+    "tool_name": "PSRecon.zip",
+    "classify_": "bb529ea1-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "PSRecon能够使用系统内置的PowerShell(V2或更高版本)对远程Windows主机进行数据收集工作，将收集到的数据整理到文件夹之中，然后对所有提取到的数据进行哈希加密，最后将所有经过加密的数据以HTML格式发送给安全团队。这些数据经过这一系列的处理之后，可以在各个组织和机构之间进行共享，也可以通过电子邮件进行发送，还可以直接保存在本地。",
+    "tool_file_size": "836KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Emergency-tools/linux/PSRecon.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "PSRecon.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "bb529ea1-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "应急工具",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b6a6d859-99a1-11ea-b6ea-0242ac130003",
+    "tool_name": "小葵多功能转换工具.exe",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "小葵多功能转换工具是一款最好的编码转换工具,支持将普通编码转换为URL/SQL_En/Hex/Asc/MD5_32/MD5_16/Base64等格式的编码,还支持解密base64编码。",
+    "tool_file_size": "48KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/小葵多功能转换工具.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "小葵多功能转换工具.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b6caca06-965c-11ea-b6ea-0242ac130003",
+    "tool_name": "WebShellKillerTool.zip",
+    "classify_": "d4aadd8a-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "Virus-killingKiller是一款病毒查杀，支持jsp、asp、aspx、php等脚本的检查。",
+    "tool_file_size": "5MB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Virus-killing/windows/WebShellKillerTool.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "WebShellKillerTool.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "d4aadd8a-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "病毒查杀",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b7840c59-9679-11ea-b6ea-0242ac130003",
+    "tool_name": "IceSword120_cn.7z",
+    "classify_": "d4aadd8a-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "冰刃IceSword122cn-冰刃不是杀毒软件,是杀毒工具-专为查探系统中的幕后黑手——木马和后门而设计",
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Virus-killing/windows/IceSword120_cn.7z",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "IceSword120_cn.7z",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "d4aadd8a-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "病毒查杀",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b7a4a3eb-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "sshshell.exe",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "交互式SSH类似putty保持会话(目标显示IP一直连着)",
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/sshshell.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "sshshell.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b7a633ff-965a-11ea-b6ea-0242ac130003",
+    "tool_name": "加密解密编码解码工具SENCODE.exe",
+    "classify_": "dbb0fab6-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "常用编码解码工具，md5，base64，rot13，ascii，凯撒，栅栏等，CTF比赛用。",
+    "tool_file_size": "62KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/data-encryption/windows/加密解密编码解码工具SENCODE.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "加密解密编码解码工具SENCODE.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "dbb0fab6-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "数据加密",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b84ff4c4-99b1-11ea-b6ea-0242ac130003",
+    "tool_name": "AtomicParsley-win32-0.9.0.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "440KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/AtomicParsley-win32-0.9.0.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "AtomicParsley-win32-0.9.0.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b8d67e78-99ae-11ea-b6ea-0242ac130003",
+    "tool_name": "CVE-2018-2628-Weblogic-GetShell-Exploit.zip",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "CVE-2018-2628-中间件利用工具",
+    "tool_file_size": "144KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/CVE-2018-2628-Weblogic-GetShell-Exploit.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "CVE-2018-2628-Weblogic-GetShell-Exploit.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b942e866-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "xPELister.V3.0汉化版.rar",
+    "classify_": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "xPELister是一个PE查看器和编辑器，也有一个RepairPE模块。",
+    "tool_file_size": "152KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Violent-attack/windows/xPELister.V3.0汉化版.rar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "xPELister.V3.0汉化版.rar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "暴力攻击",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b9ac05e8-99a6-11ea-b6ea-0242ac130003",
+    "tool_name": "Scylla_v_0.9.8.7z",
+    "classify_": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "Scylla汉化版是一个非常优秀的IAT脱壳修复工具，采用了全新的IAT搜索算法，为用户实现了重建IAT、重建PE、DLL注入等功能，能够通过OD查找脱壳后文件的IAT的大小来修复IAT，达到完整修复文件的目的。\n\n软件使用说明-\n1、选择->设置DLL的DLL入口点-\n2、先进的IAT搜索算法（启用/禁用它的选项）-\n3、在选择固定的错误，进行修复即可-\n\n脱壳后文件打不开怎么修复-\n网上应该有脱壳修复类的视频搜索看看一般不能运行-\n1、没有到OEP-\n2、一般说来，对软件脱壳是不会改变原软件的运行机制的。-\n3、它只是将加密的IAT地址还原成装载前的API函数名字串的地址，并以明码方式显示。-\n4、脱壳是否成功的标志是软件运行前图标与脱壳前一致、运行时windows并未发出\"……，初始化失败……\"的警告，那么脱壳大体是成功的。-\n5、若出现初始化失败警告，则百分之百是IID表或IAT表搞错了-\n\n脱壳后文件损坏怎么修复-\n1、有的文件时进行的精密的加壳处理，才完成的一些软件的启动，如果过度的脱壳，只是会让文件外部保护壳破坏掉，导致文件不能正常使用，是修复不了的",
+    "tool_file_size": "4KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Violent-attack/windows/Scylla_v_0.9.8.7z",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Scylla_v_0.9.8.7z",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "暴力攻击",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b9b1a195-99a4-11ea-b6ea-0242ac130003",
+    "tool_name": "VNCdoor.exe",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "VNC后门可正反向",
+    "tool_file_size": "36MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/VNCdoor.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "VNCdoor.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "b9c4db0e-99a7-11ea-b6ea-0242ac130003",
+    "tool_name": "python2.7.10.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "18MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/python2.7.10.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "python2.7.10.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "ba01dff6-9679-11ea-b6ea-0242ac130003",
+    "tool_name": "HTTP溢出攻击过滤器文件HTTPycgj.rar",
+    "classify_": "d88566ec-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "过滤HTTP溢出攻击脚本",
+    "tool_file_size": "550B",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Data-analysis/windows/HTTP溢出攻击过滤器文件HTTPycgj.rar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "HTTP溢出攻击过滤器文件HTTPycgj.rar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "d88566ec-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "数据分析",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "ba54b43b-9678-11ea-b6ea-0242ac130003",
+    "tool_name": "ProcX.7z",
+    "classify_": "dedba011-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "一款很专业的进程检测工具,而且它还是一款免费软件。",
+    "tool_file_size": "47KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Defense-protection/windows/ProcX.7z",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ProcX.7z",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "dedba011-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "防御保护",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "ba99f8b5-99a2-11ea-b6ea-0242ac130003",
+    "tool_name": "个人专用马.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "564KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/个人专用马.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "个人专用马.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bac2da76-99a8-11ea-b6ea-0242ac130003",
+    "tool_name": "netcat-0.7.1.tar.gz",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "392KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/linux/netcat-0.7.1.tar.gz",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "netcat-0.7.1.tar.gz",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "badd16e4-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "SSH_Manage.exe",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "渗透专用SSH(执行完后立即销毁会话,不像putty保存会话常暴露IP)",
+    "tool_file_size": "7MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/SSH_Manage.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "SSH_Manage.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bb007e91-99b1-11ea-b6ea-0242ac130003",
+    "tool_name": "ASCII码转换.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "196KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/ASCII码转换.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ASCII码转换.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bba7ffcf-99ac-11ea-b6ea-0242ac130003",
+    "tool_name": "getBrowserPWD_1124.zip",
+    "classify_": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "浏览器密码读取工具",
+    "tool_file_size": "396KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Violent-attack/windows/getBrowserPWD_1124.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "getBrowserPWD_1124.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "b3d685c8-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "暴力攻击",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bbeb238c-99ae-11ea-b6ea-0242ac130003",
+    "tool_name": "CVE-2018-2628-Weblogic-GetShell.py",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "CVE-2018-2629-中间件利用工具",
+    "tool_file_size": "12KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/CVE-2018-2628-Weblogic-GetShell.py",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "CVE-2018-2628-Weblogic-GetShell.py",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bc8a832b-99a7-11ea-b6ea-0242ac130003",
+    "tool_name": "pwntools-dev.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/pwntools-dev.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "pwntools-dev.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bca7acd7-9679-11ea-b6ea-0242ac130003",
+    "tool_name": "HTTP-常见攻击脚本过滤器HTTP-Common-Exploits.rar",
+    "classify_": "d88566ec-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "过滤HTTP[常见攻击脚本",
+    "tool_file_size": "563B",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Data-analysis/windows/HTTP-常见攻击脚本过滤器HTTP-Common-Exploits.rar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "HTTP-常见攻击脚本过滤器HTTP-Common-Exploits.rar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "d88566ec-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "数据分析",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bcee8672-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "xortool-XOR分析工具.zip",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "一个做一些异或分析的工具：\n\n猜测密钥的长度（根据同等字符数）\n猜测关键（根据最常见的字符的知识）",
+    "tool_file_size": "152KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/xortool-XOR分析工具.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "xortool-XOR分析工具.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bd0581bc-99a9-11ea-b6ea-0242ac130003",
+    "tool_name": "JspShellExec.zip",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "CMD下JSP一句话连接工具",
+    "tool_file_size": "24KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/JspShellExec.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "JspShellExec.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bd3d66e1-9678-11ea-b6ea-0242ac130003",
+    "tool_name": "procexp.7z",
+    "classify_": "d4aadd8a-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "--Procexp，即process-explorer，进程浏览器。用来查看计算机上运行的进程的状态。（CPU、内存、句柄、加载dll、线程及堆栈等）",
+    "tool_file_size": "172KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Virus-killing/windows/procexp.7z",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "procexp.7z",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "d4aadd8a-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "病毒查杀",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bd7fdd6e-99a2-11ea-b6ea-0242ac130003",
+    "tool_name": "辅臣数据库查看.rar",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "28KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/辅臣数据库查看.rar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "辅臣数据库查看.rar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bdeaa7dc-99b1-11ea-b6ea-0242ac130003",
+    "tool_name": "ARPTool.zip",
+    "classify_": "b720b15f-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "内网ARP工具批量挂马",
+    "tool_file_size": "752KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/ARPTool.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ARPTool.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "b720b15f-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "挂马工具",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bdf1cf0c-99a8-11ea-b6ea-0242ac130003",
+    "tool_name": "nc提权.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "32KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/nc提权.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "nc提权.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bdfd92aa-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "ssh_decoder-ssh流量解密工具.zip",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "这个工具可以解释捕获的SSH会话，其中两端之一使用易受攻击的OpenSSL（debian-OpenSSL-PRNG-vuln）。\n您将需要ssh_kex_keygen（>-=-1.1）来恢复DH共享密钥。\n如何使用-：\n------获得一个捕获（PCAP）\n------使用tcpick--wRC--wRS-session.pcap-\n-------ruby??-ssh_decoder.rb-*-.dat\n------？\n------利润。\n常见的选项（其实ssh_kex_keygen选项，请参阅其README）：\n-----v：verbose（转储所有ssh数据包）\n-----s：将服务器视为易受攻击的（默认）\n-----c：认为客户是脆弱的\n-----n：暴力破解的进程数（你机器的CPU数量）\n",
+    "tool_file_size": "7MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/linux/ssh_decoder-ssh流量解密工具.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ssh_decoder-ssh流量解密工具.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "be0c44aa-99a4-11ea-b6ea-0242ac130003",
+    "tool_name": "virtualsocket-二进制交互工具.zip",
+    "classify_": "9c75738a-934f-11ea-b631-0242ac120003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "一个很好的库用来与二进制文件进行交互（主要是为CTF开发而开发的）\n\n安装\n\ngit-clone-https://github.com/antoniobianchi333/virtualsocket.git-\npip-install--e-virtualsocket-/\n用法\nvirtualsocket可以透明地用于使用TCP套接字或stdout-/-stdin的二进制文件\n\n与TCP二进制文件一起使用\n输入\nfrom-virtualsocket.virtualsocket-import-VirtualSocket\nfrom-virtualsocket.gsocket.netsocket-import-NetSocket\n连接\n#suppose-that-your-binary-is-listening-on-127.0.0.1:7777\nvs-=-VirtualSocket(NetSocket(\"127.0.0.1\",7777))\nvs.connect()\n使用stdin-/-stderr二进制文件\n输入\nfrom-virtualsocket.virtualsocket-import-VirtualSocket\nfrom-virtualsocket.gsocket.stdsocket-import-StdSocket\n打开二进制文件\nmkfifo-/-tmp-/-in-\nmkfifo-/-tmp-/-out-\n./my_std_binary-<-/-tmp-/-out->-/-tmp-/-in\n如果你需要使用GDB：\n\ngdb-./my_std_binary-\nr-<-/-tmp-/-out->-/-tmp-/-in\n如果编程正确，std二进制文件应该正确刷新管道（通过调用flush或使用setvbuf正确设置缓冲区）。\n\n如有问题，可以尝试：\n\nunbuffer-./my_std_binary-<-/-tmp-/-out->-/-tmp-/-in\n要么\n\nstdbuf--i-0--o-0--e-0-./my_std_binary-<-/-tmp-/-out->-/-tmp-/-in\n连\n#suppose-that-your-binary-has-been-opened-with:-./my_std_binary-<-/tmp/out->-/tmp/in\nvs-=-VirtualSocket(StdSocket(\"/tmp/in\",\"/tmp/out\"))\nvs.connect()\n通信\n发送和接收数据\n<span-style=\"font-size:-",
+    "tool_file_size": "36MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/comprehensive-utilization/linux/virtualsocket-二进制交互工具.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "virtualsocket-二进制交互工具.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "9c75738a-934f-11ea-b631-0242ac120003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "综合利用",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "be1f4a3f-99a6-11ea-b6ea-0242ac130003",
+    "tool_name": "ScRunBase64.py.zip",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "ShellCode免杀加载器(CS-&-MSF)",
+    "tool_file_size": "3MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/ScRunBase64.py.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ScRunBase64.py.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bf0c3127-99ae-11ea-b6ea-0242ac130003",
+    "tool_name": "ctf-tools-master.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "120KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/ctf-tools-master.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ctf-tools-master.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bf76ceaa-99a7-11ea-b6ea-0242ac130003",
+    "tool_name": "pwntools-ctf的python工具库，使用极其广泛.zip",
+    "classify_": "9c75738a-934f-11ea-b631-0242ac120003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "Pwntools是一个CTF框架和利用开发库。用Python编写，专为快速原型设计和开发而设计，旨在尽可能简化漏洞利用的写作。\n\n安装\nPwntools在64位Ubuntu-LTE版本（12.04,14.04和16.04）上得到最好的支持。大多数功能应该可以在任何类似Posix的发行版上运行（Debian，Arch，FreeBSD，OSX等）。Python-2.7是必需的。\n\npwntools的大部分功能都是自包含的，仅包含Python。你应该能够快速运行\n\n\napt-get更新\napt-get-install-python2.7-python-pip-python-dev-git-libssl-dev-libffi-dev-build-essential\n点子安装---升级点子\npip安装---升级pwntools\n示例：https://github.com/Gallopsled/pwntools-write-ups",
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/comprehensive-utilization/linux/pwntools-ctf的python工具库，使用极其广泛.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "pwntools-ctf的python工具库，使用极其广泛.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "9c75738a-934f-11ea-b631-0242ac120003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "综合利用",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bfb2fe8e-99a9-11ea-b6ea-0242ac130003",
+    "tool_name": "JPocketKnife（JPK）-进制、字符转换.jar",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "macos",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "JPocketKnife（JPK）是国外流行的字符转换工具。-可以在二进制、十六进制、十进制、ASC、字符串之间自由转换。-并支持与-或-异或等各种计算方法。-支持base64-Atbase-摩斯密码的加密和解密。",
+    "tool_file_size": "176KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/macos/JPocketKnife（JPK）-进制、字符转换.jar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "JPocketKnife（JPK）-进制、字符转换.jar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "bfc4237c-99ac-11ea-b6ea-0242ac130003",
+    "tool_name": "gef-gdb增强工具.zip",
+    "classify_": "9c75738a-934f-11ea-b631-0242ac120003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "参考地址-https://github.com/hugsy/gef\n\n安装：\n\n#-via-the-install-script\n#下载-gef.sh-并执行\nwget--q--O--https://github.com/hugsy/gef/raw/master/gef.sh-|-sh\n#-manually\n#-下载-gef.py,-并将其-source-写入-.gdbinit\nwget--q--O-~/.gdbinit-gef.py-https://github.com/hugsy/gef/raw/master/gef.py\necho-source-~/.gdbinit-gef.py->>-~/.gdbinit",
+    "tool_file_size": "136KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/comprehensive-utilization/linux/gef-gdb增强工具.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "gef-gdb增强工具.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "9c75738a-934f-11ea-b631-0242ac120003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "综合利用",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c00276e5-9679-11ea-b6ea-0242ac130003",
+    "tool_name": "htpwdScan.zip",
+    "classify_": "e1b4c986-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "一个简单的HTTP暴力破解、撞库攻击脚本)",
+    "tool_file_size": "267KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Safety-assessment/linux/htpwdScan.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "htpwdScan.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "e1b4c986-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "安全评估",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c033ce31-9678-11ea-b6ea-0242ac130003",
+    "tool_name": "processlassosetup64.exe",
+    "classify_": "dedba011-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "一款独特的调试级别的系统优化工具,主要功能是动态调整各个进程的优先级并设为合理的优先级类以实现为系统减负的目的,",
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Defense-protection/windows/processlassosetup64.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "processlassosetup64.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "dedba011-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "防御保护",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c038a842-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "Xftp-6.0.0085p.exe",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "26MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/Xftp-6.0.0085p.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Xftp-6.0.0085p.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c06a9e8e-99a2-11ea-b6ea-0242ac130003",
+    "tool_name": "飞刀专用UA一句话木马.asxp",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "一句话木马",
+    "tool_file_size": "4KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/飞刀专用UA一句话木马.asxp",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "飞刀专用UA一句话木马.asxp",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c0b8336d-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "sqltools深度命令集成版.exe",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "qltools深度命令成版是一款多功能的ORACLE数据库管理软件。命令行版可以通过命令来控制数据库",
+    "tool_file_size": "7MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/sqltools深度命令集成版.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "sqltools深度命令集成版.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c0d1706d-99b1-11ea-b6ea-0242ac130003",
+    "tool_name": "ARPR.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "752KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/ARPR.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ARPR.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c0ec598f-99a6-11ea-b6ea-0242ac130003",
+    "tool_name": "ScRunBase64.exe",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130004",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "ShellCode免杀加载器(CS-&-MSF)",
+    "tool_file_size": "4KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/ScRunBase64.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ScRunBase64.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": null
+  },
+  {
+    "uuid": "c1941db4-99ae-11ea-b6ea-0242ac130003",
+    "tool_name": "ctf-tool-0.0.1.tar.gz",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "4KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/linux/ctf-tool-0.0.1.tar.gz",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ctf-tool-0.0.1.tar.gz",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c1d5fa72-99a4-11ea-b6ea-0242ac130003",
+    "tool_name": "villoc-堆操作可视化工具.zip",
+    "classify_": "9c75738a-934f-11ea-b631-0242ac120003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "Villoc是一个堆可视化工具，它是一个呈现静态html文件的python脚本。一个例子可以在这里看到：http-:-//wapiflapi.github.io/villoc/，这是villoc运行PlaidCTF-2015的挑战PlaidDB的利用。\n\n\n使用\n\n使用villoc最简单的方法可能是运行以下命令并在浏览器中打开out.html。\n\nltrace-./target-|-＆-villoc.py-----out.html-;",
+    "tool_file_size": "36MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/comprehensive-utilization/windows/villoc-堆操作可视化工具.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "villoc-堆操作可视化工具.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "9c75738a-934f-11ea-b631-0242ac120003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "综合利用",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c344587b-99a2-11ea-b6ea-0242ac130003",
+    "tool_name": "飞刀PHP-专用UA一句话木马.php",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "一句话木马",
+    "tool_file_size": "4KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/飞刀PHP-专用UA一句话木马.php",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "飞刀PHP-专用UA一句话木马.php",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c345b141-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "wwwscan根目录扫描.zip",
+    "classify_": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "这是uhhuhy-写的程序,是一款简单又好用的网站目录扫描软件",
+    "tool_file_size": "232KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Vulnerability-collection/windows/wwwscan根目录扫描.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "wwwscan根目录扫描.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c362bc87-99ac-11ea-b6ea-0242ac130003",
+    "tool_name": "gdb-heap-用于调试堆问题的gdb扩展.zip",
+    "classify_": "9c75738a-934f-11ea-b631-0242ac120003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "安装说明：\n\n为了使这个模块与Ubuntu-12.04一起工作，请确保你已经安装了下列软件包：\nsudo-apt-get-install-libc6-dev-libc6-dbg-python-gi-libglib2.0-dev-python-ply\n原始版本的版本假定“import-gdb”模块位于“/usr/share/glib-2.0/gdb”作为libglib2.0-dev软件包的一部分。\n\npython-gobject-2库也存在冲突，这是对GObject库不赞成使用的Python绑定。这个包在/usr/lib/python2.7/dist-packages/glib/option.py中安装了一个glib-/目录，许多与Gtk相关的模块都依赖于这个目录。因此，您需要确保/usr/share/glib-2.0/gdb的sys.path由于此原因而被首先声明。\n\n创建一个文件，帮助自动加载gdbheap库\ngdb-heap-commands:\npython\nimport-sys\nsys.path.insert(0,-\"/usr/share/glib-2.0/gdb\")\nsys.path.append(\"/usr/share/glib-2.0/gdb\")\nsys.path.append(\"/home/rhu/projects/gdb-heap\")\nimport-gdbheap\nend\n要附加到现有的过程中，你可以执行如下：\nsudo-gdb--p-7458--x-~/gdb-heap-commands\n要获取进程的核心转储，您可以执行以下操作：\n\n1)-sudo-gdb--p-<pid>\n2)-Type-\"generate-core-file\"-at-the-GDB-prompt.\n3)-Wait-awhile-(and-be-careful-not-to-hit-enter-again,-since-it-will-repeat-the-same-command)\n4)-Copy-the-core.<pid>-file-somewhere.\n然后你可以使用gdb附加到这个核心文件：\n\nsudo-gdb-python-<core-file>--x-~/gdb-heap-commands",
+    "tool_file_size": "64KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/comprehensive-utilization/linux/gdb-heap-用于调试堆问题的gdb扩展.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "gdb-heap-用于调试堆问题的gdb扩展.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "9c75738a-934f-11ea-b631-0242ac120003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "综合利用",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c3ac9660-99a8-11ea-b6ea-0242ac130003",
+    "tool_name": "ncat-7.70-1.x86_64.rpm",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "1MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/linux/ncat-7.70-1.x86_64.rpm",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ncat-7.70-1.x86_64.rpm",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c3df96bd-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "SQLMDFViewer.zip",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "sql-mdf-viewer-中文版是款功能简单实用的mdf文件查看器",
+    "tool_file_size": "32KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/SQLMDFViewer.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "SQLMDFViewer.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c3f55016-99b1-11ea-b6ea-0242ac130003",
+    "tool_name": "apktool-移动安全的apk分析工具.jar",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "macos",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "这款apk反编译工具(ApkToolkit)拥有编译、反编译、签名等功能，对于经常DIY安卓软件的朋友来说，是必不可少的工具。",
+    "tool_file_size": "6MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/macos/apktool-移动安全的apk分析工具.jar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "apktool-移动安全的apk分析工具.jar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c429511a-9678-11ea-b6ea-0242ac130003",
+    "tool_name": "processhacker-2.39-bin.zip",
+    "classify_": "dedba011-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "提供了一个突出显示您的计算机上运行进程的树视图。",
+    "tool_file_size": "3MB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Defense-protection/windows/processhacker-2.39-bin.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "processhacker-2.39-bin.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "dedba011-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "防御保护",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c4bd445c-99a6-11ea-b6ea-0242ac130003",
+    "tool_name": "ScRunBase32.py.zip",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130005",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "ShellCode免杀加载器(CS-&-MSF)",
+    "tool_file_size": "3MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/ScRunBase32.py.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ScRunBase32.py.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": null
+  },
+  {
+    "uuid": "c57eeb45-99a1-11ea-b6ea-0242ac130003",
+    "tool_name": "小红伞-Avira-avipbb.sys-提权Exploit1024.zip",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "小红伞-提权工具",
+    "tool_file_size": "264KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/小红伞-Avira-avipbb.sys-提权Exploit1024.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "小红伞-Avira-avipbb.sys-提权Exploit1024.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c6060941-99a2-11ea-b6ea-0242ac130003",
+    "tool_name": "飞刀-Not-Found_20160414.zip",
+    "classify_": "9c75738a-934f-11ea-b631-0242ac120003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "渗透功能脚本",
+    "tool_file_size": "19MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/comprehensive-utilization/windows/飞刀-Not-Found_20160414.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "飞刀-Not-Found_20160414.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "9c75738a-934f-11ea-b631-0242ac120003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "综合利用",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c6d2ff9c-99a8-11ea-b6ea-0242ac130003",
+    "tool_name": "Navicat-for-MySQL.zip",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "Navicat-for-MySQL-可连接任何本机或远程-MySQL-服务器,功能包括数据模型工具、数据同步、导入或导出、报表、以及更多。",
+    "tool_file_size": "17MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/Navicat-for-MySQL.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Navicat-for-MySQL.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c6f1de45-99b1-11ea-b6ea-0242ac130003",
+    "tool_name": "apktool_2.3.4.jar",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "11MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/apktool_2.3.4.jar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "apktool_2.3.4.jar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c6fe603a-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "sqlmap-自动化sql注入引擎.zip",
+    "classify_": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "SQLmap是一款用来检测与利用SQL注入漏洞的免费开源工具，有一个非常棒的特性，即对检测与利用的自动化处理数据库指纹、访问底层文件系统、执行命令",
+    "tool_file_size": "25MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Vulnerability-collection/windows/sqlmap-自动化sql注入引擎.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "sqlmap-自动化sql注入引擎.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c727740f-99a9-11ea-b6ea-0242ac130003",
+    "tool_name": "jphs05.rar",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "168KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/jphs05.rar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "jphs05.rar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c74db162-9678-11ea-b6ea-0242ac130003",
+    "tool_name": "PowerTool_2.0_PortableSoft.7z",
+    "classify_": "dedba011-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "PowerTool-是由-IThurricane-开发的一个免费的手动杀毒辅助工具，从最初只有防御保护、文件粉碎等基本功能，到现在已发展为一个全面的系统维护工具，完美支持-Windows-7-和-Windows-8。",
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Defense-protection/windows/PowerTool_2.0_PortableSoft.7z",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "PowerTool_2.0_PortableSoft.7z",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "dedba011-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "防御保护",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c7c9b7d9-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "wwwscan.rar",
+    "classify_": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "这是-uhhuhy-写的程序，是一款简单又好用的网站目录文件批量扫描工具!!\n功能介绍：\n1.直接在url文本里面输入需要扫描的网站（不能带http前缀只输入网址即可-如果是要一次扫描多个网站直接在文本里面输入网站一行一个）\n扫描完成后会自动已网址创建一个url直接打开即可查看扫描到的内容。这种方法相对比较简单默认的扫描端口80端口，如果网站是使用的其他端口也就是除80以外的其他端口就需要用到下面的方法。\n2.先打开CMD，用法非常简单，一般只需要在命令提示符下输入：wwwscan-IP或者域名（这里需要在cmd里面切换到wwwsan的文件目录下），要想用更强的功能有一些参数，参数p表示设置web端口，m表示设置最大的线程数，t表示设置超时时间，r表示设置扫描的起始目录。",
+    "tool_file_size": "860KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Vulnerability-collection/windows/wwwscan.rar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "wwwscan.rar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c803c595-99a6-11ea-b6ea-0242ac130003",
+    "tool_name": "ScRunBase32.exe",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130006",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "ShellCode免杀加载器(CS-&-MSF)",
+    "tool_file_size": "12KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/ScRunBase32.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ScRunBase32.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": null
+  },
+  {
+    "uuid": "c96702b2-99a4-11ea-b6ea-0242ac130003",
+    "tool_name": "veles-二进制数据分析与可视化工具.exe",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "官网下载地址：https://codisec.com/veles/#download-veles\n\nVeles将先进的十六进制浏览器和数据可视化功能与可扩展的二进制数据分析框架结合在一起。反向工程二进制文件，浏览文件系统映像，隐写术，veles支持你在这些领域的工作。",
+    "tool_file_size": "12KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/veles-二进制数据分析与可视化工具.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "veles-二进制数据分析与可视化工具.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c9c873f7-99b1-11ea-b6ea-0242ac130003",
+    "tool_name": "apache-jmeter-2.11.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "31MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/apache-jmeter-2.11.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "apache-jmeter-2.11.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "c9dc4a4b-99a8-11ea-b6ea-0242ac130003",
+    "tool_name": "Navicat_for_SQLServer.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "22MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/Navicat_for_SQLServer.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Navicat_for_SQLServer.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "ca797e56-9679-11ea-b6ea-0242ac130003",
+    "tool_name": "HoneyBot.zip",
+    "classify_": "d88566ec-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "HoneyBOT是一款能够在网络上模仿超过1000个易受攻击的服务的Windows蜜罐程序，可以捕获和记录入侵和袭击企图。",
+    "tool_file_size": "38MB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Data-analysis/linux/HoneyBot.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "HoneyBot.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "d88566ec-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "数据分析",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "ca9af89c-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "ws2help提权.zip",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "ws2help提权工具",
+    "tool_file_size": "12KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/ws2help提权.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "ws2help提权.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cabb9870-965b-11ea-b6ea-0242ac130003",
+    "tool_name": "计算机安全检查取证系统.zip",
+    "classify_": "ee7e01a8-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "计算机安全保密检查软件，综合运用数据恢复、上网记录搜集、木马检测等手段，从不同角度辅助检查人员确认违规上网及泄密行为，并提供计算机安全性的全方位专业检查，为从事信息防御保护及检查的机构和人员提供强有力的、全面可靠的技术工具。",
+    "tool_file_size": "4MB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Audit-test/windows/计算机安全检查取证系统.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "计算机安全检查取证系统.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ee7e01a8-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "审计测试",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cadf01b1-99a6-11ea-b6ea-0242ac130003",
+    "tool_name": "scrun.py.zip",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130007",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "ShellCode免杀加载器(CS-&-MSF)",
+    "tool_file_size": "140KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/scrun.py.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "scrun.py.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": null
+  },
+  {
+    "uuid": "cb049fb4-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "sqlmapproject-sqlmap-1.2.9-60-gf2b4dc3.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "4MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/sqlmapproject-sqlmap-1.2.9-60-gf2b4dc3.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "sqlmapproject-sqlmap-1.2.9-60-gf2b4dc3.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cc4a2a03-99b1-11ea-b6ea-0242ac130003",
+    "tool_name": "Apache-2.2.1.4-modisapi-exploit.zip",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "Apache-mod_isapi-模块悬挂指针漏洞",
+    "tool_file_size": "252KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/Apache-2.2.1.4-modisapi-exploit.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Apache-2.2.1.4-modisapi-exploit.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a79e356e-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "木马病毒",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cc717dbe-99a8-11ea-b6ea-0242ac130003",
+    "tool_name": "Namo_GIF-GIF隐写工具.rar",
+    "classify_": "ae262abd-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "Namo-Gif-Animator是一款可以帮助用户简单编辑gif图片的工具，该gif图片编辑器可以将每一帧导出成图片保存，不过该工具不可以在图片上面添加文字。",
+    "tool_file_size": "980KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Loophole-penetration/windows/Namo_GIF-GIF隐写工具.rar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Namo_GIF-GIF隐写工具.rar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "ae262abd-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞渗透",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cd32afb0-99a9-11ea-b6ea-0242ac130003",
+    "tool_name": "JohnTheRipper-1.8.0.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "332KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/JohnTheRipper-1.8.0.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "JohnTheRipper-1.8.0.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cd371851-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "WPdetection.exe",
+    "classify_": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "WordPress站点信息获取",
+    "tool_file_size": "20KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Vulnerability-collection/windows/WPdetection.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "WPdetection.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cd65b876-9679-11ea-b6ea-0242ac130003",
+    "tool_name": "HB_RegSnap50_1711_Fire.7z",
+    "classify_": "dedba011-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "#NAME?",
+    "tool_file_size": "846KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Defense-protection/windows/HB_RegSnap50_1711_Fire.7z",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "HB_RegSnap50_1711_Fire.7z",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "dedba011-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "防御保护",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cdaa9637-99a6-11ea-b6ea-0242ac130003",
+    "tool_name": "scrun.exe",
+    "classify_": "a79e356e-9355-11ea-b6ea-0242ac130008",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "ShellCode免杀加载器(CS-&-MSF)",
+    "tool_file_size": "140KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Trojan-horse-virus/windows/scrun.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "scrun.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": null
+  },
+  {
+    "uuid": "cdb7f830-99a5-11ea-b6ea-0242ac130003",
+    "tool_name": "sqlmap-master.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/sqlmap-master.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "sqlmap-master.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "ce395783-965b-11ea-b6ea-0242ac130003",
+    "tool_name": "火绒剑.exe",
+    "classify_": "d88566ec-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "火绒剑最独特的功能还是系统行为分析。可以监控系统中所有进程的文件、注册表、进程以及网络动作;可以通过拖入程序到监控页面来监控该程序",
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Data-analysis/windows/火绒剑.exe",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "火绒剑.exe",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "d88566ec-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "数据分析",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "ced9747f-99b1-11ea-b6ea-0242ac130003",
+    "tool_name": "angr-Shellphish战队出品的下一代二进制分析引擎.zip",
+    "classify_": "9c75738a-934f-11ea-b631-0242ac120003",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "Angr是UC-Santa-Barbara的计算机安全实验室及其相关的CTF团队Shellphish开发的一个平台无关的二进制分析框架。\n\n安装angr\n\nangr是一个python库，所以它必须先安装到python环境中才能使用。它是为Python-2而构建的\n\n依赖\n\n所有的python依赖项都应该由pip和/或setup.py脚本来处理。但是，您将需要构建一些C从这里到最后，所以您将需要一个良好的构建环境以及python开发标题。在依赖安装过程中的某个时候，你将安装python库cffi，但是（至少在linux上）它将不会运行，除非你安装了你的操作系统的libffi包。\n\nlinux\n\nmkvirtualenv-angr-&&-pip-install-angr-\nmacos-X\n\npip-install-angr-\n应该可以工作，但有一些警告。\n\n如果你运气不好，碰到一个破坏的构建脚本与叮当，尝试使用GCC。\n\nbrew-install-gcc\nenv-CC=/usr/local/bin/gcc-6-pip-install-angr\n安装好angr之后，你需要修改angr本地库的一些共享库路径。\n\nBASEDIR=/usr/local/lib/python2.7/site-packages\n#-If-you-don't-know-where-your-site-packages-folder-is,-use-this-to-find-them:\npython2--c-\"import-site;-print(site.getsitepackages())\"\ninstall_name_tool--change-libunicorn.1.dylib-\"$BASEDIR\"/unicorn/lib/libunicorn.dylib-\"$BASEDIR\"/angr/lib/angr_native.dylib\ninstall_name_tool--change-libpyvex.dylib-\"$BASEDIR\"/pyvex/lib/libpyvex.dylib-\"$BASEDIR\"/angr/lib/angr_native.dylib\nwindows\n\nangr可能可以从windows上的pip安装，因为你已经加载了visual-studio构建工具。Capstone难以安装在windows上。-您可能需要手动指定要安装的滚轮，但有时会安装在不同于“capstone”的名称下，所以如果发生这种情况，您只需从angr和archinfo中的requirements.txt文件中删除capstone。",
+    "tool_file_size": "848KB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/comprehensive-utilization/windows/angr-Shellphish战队出品的下一代二进制分析引擎.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "angr-Shellphish战队出品的下一代二进制分析引擎.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "9c75738a-934f-11ea-b631-0242ac120003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "综合利用",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cfd910e4-99a3-11ea-b6ea-0242ac130003",
+    "tool_name": "Wordpress综合检测工具.rar",
+    "classify_": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "它的功能包括：用户、插件枚举，列目录，插件漏洞检测和wordpress主题检查、文件发现。",
+    "tool_file_size": "4MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/Vulnerability-collection/windows/Wordpress综合检测工具.rar",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Wordpress综合检测工具.rar",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "a3ec8aba-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "漏洞收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "cffc70c1-99a9-11ea-b6ea-0242ac130003",
+    "tool_name": "john179w2.zip",
+    "classify_": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+    "system_environment": "windows",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": null,
+    "tool_file_size": "2MB",
+    "tool_path": "/storage/Uploads/tools/Attack-software/information-gathering/windows/john179w2.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "john179w2.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "03bc6dc9-f57c-11e9-8fec-fefcfee0458f",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "信息收集",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  },
+  {
+    "uuid": "d01a94f8-9679-11ea-b6ea-0242ac130003",
+    "tool_name": "Hawkeye.zip",
+    "classify_": "dedba011-9355-11ea-b6ea-0242ac130003",
+    "system_environment": "linux",
+    "system_type": "64位",
+    "attack_defense_flag": null,
+    "intro_": "监控github代码库，及时发现员工托管公司代码到GitHub行为并预警，降低代码泄露风险。",
+    "tool_file_size": "582KB",
+    "tool_path": "/storage/Uploads/tools/Defense-tools/Defense-protection/linux/Hawkeye.zip",
+    "create_time": "2020-05-15 10:48:00",
+    "update_time": "2020-05-15 10:48:00",
+    "state": 0,
+    "doc_path": null,
+    "name": "Hawkeye.zip",
+    "attribute": 1,
+    "created_by": "",
+    "tool__classify": {
+      "uuid": "dedba011-9355-11ea-b6ea-0242ac130003",
+      "dict_uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+      "dict_data_name": "防御保护",
+      "sys__dict__data__sys__dict": {
+        "uuid": "af932290-e47b-4030-930a-ec87fd4b5b70",
+        "dict_name": "工具分类"
+      }
+    }
+  }
+]
