@@ -5,13 +5,15 @@ import csv
 import threading
 from urllib.request import urlretrieve
 from urllib.request import quote
+
+import urllib
 # 全局取消证书验证
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 csv_path = 'tool_src.csv'
 
 url_root='https://223.129.86.3'
-des_root=os.path.curdir+"/data"
+des_root="/home/wang2/data/"
 
 class FetchThread(threading.Thread):
     def __init__(self, threadID, name, url):
@@ -42,8 +44,12 @@ def fetch(url_path, des_path):
         dir_path,file_name=os.path.split(des_path)
         if not os.path.isdir(dir_path):
             os.makedirs(dir_path)
-        urlretrieve(url_path, des_path, reporthook=reporthook)
-        print('\nDownload finished!')
+        try:
+            urlretrieve(url_path, des_path, reporthook=reporthook)
+        except urllib.error.HTTPError:
+            print("Failed downloading{}".format(url_path))
+        else:
+            print('\nDownload finished!')
     else:
         print('File already exsits!')
 
@@ -71,6 +77,8 @@ def write_csv(src_f, csv_path):
             print(line)
             if line['tool__classify']:
                 write_info.append(line['tool__classify']['dict_data_name'])
+            else:
+                write_info.append('其他')
             writer.writerow(write_info)
 
 def scan_json(json_path):
